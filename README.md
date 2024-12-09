@@ -48,3 +48,9 @@
 
 # hasil Pyhton
 
+1. Input Data Mahasiswa 
+
+![Screenshot 2024-12-09 223338](https://github.com/user-attachments/assets/401a2792-c095-4291-b95d-5f5f1decffc0)
+
+2. Hapus data Mahasiswa 
+
