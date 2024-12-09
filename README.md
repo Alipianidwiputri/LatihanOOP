@@ -52,5 +52,13 @@
 
 ![Screenshot 2024-12-09 223338](https://github.com/user-attachments/assets/401a2792-c095-4291-b95d-5f5f1decffc0)
 
+2. hapus data
+
+![Screenshot 2024-12-09 223612](https://github.com/user-attachments/assets/4489b61c-66e8-4ac6-99da-a2adc06d76b1)
+
+3. ubah data
+
+
+
 2. Hapus data Mahasiswa 
 
