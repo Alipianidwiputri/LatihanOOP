@@ -57,8 +57,5 @@
 ![Screenshot 2024-12-09 223612](https://github.com/user-attachments/assets/4489b61c-66e8-4ac6-99da-a2adc06d76b1)
 
 3. ubah data
-
-
-
-2. Hapus data Mahasiswa 
+![Screenshot 2024-12-09 223716](https://github.com/user-attachments/assets/2dfd8ed8-71d2-45da-bb1f-d30b6565ee67)
 
